@@ -85,5 +85,8 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IgorXVI&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+## Github Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kauanr&show_icons=true&theme=dracula&count_private=true&custom_title=Repositories%20Stats&line_height=20">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanr&layout=compact&theme=dracula"/>
+</div>  
