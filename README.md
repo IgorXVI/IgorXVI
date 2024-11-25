@@ -8,9 +8,6 @@
 - 🌱 I’m currently learning Java and Spring Boot  
   
 
-- ❓ Ask me about anything related to JavaScript and NodeJS  
-  
-
 - ⚡ Fun fact: I use spaces over tabs  
   
 
