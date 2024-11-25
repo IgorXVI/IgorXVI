@@ -66,9 +66,7 @@
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-png-transparent.png" alt="Raspberry Pi" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>
   
 
 <br/>  
@@ -79,6 +77,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=igorxvi&show_icons=true&theme=dracula&count_private=true&custom_title=Repositories%20Stats&line_height=20">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorxvi&layout=compact&theme=dracula&hide=html,css,svelte"/>
 </div>
+
+<br/>
 
 ## Connect with me  
 <div align="center">
