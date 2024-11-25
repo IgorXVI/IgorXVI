@@ -75,7 +75,7 @@
 ## Github Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=igorxvi&show_icons=true&theme=dracula&count_private=true&custom_title=Repositories%20Stats&line_height=20">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorxvi&layout=compact&theme=dracula&hide=html,css,svelte"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorxvi&layout=compact&theme=dracula&hide=html,css,svelte,kotlin"/>
 </div>
 
 <br/>
