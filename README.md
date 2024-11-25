@@ -1,5 +1,6 @@
 ### <div align="center">Hello, I'm Igor Tomelero de Almeida 👋</div>  
-  
+
+<br/>
 
 - 🔭 I’m currently on a Spring Boot internship at [ Compass UOL](https://compass.uol/en/home/)  
   
