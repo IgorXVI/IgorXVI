@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🔭 I’m currently looking for work
+- 🔭 I'm currently looking for work
 
 <br/>  
 
