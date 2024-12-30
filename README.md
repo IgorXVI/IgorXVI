@@ -2,14 +2,7 @@
 
 <br/>
 
-- 🔭 I’m currently on a Spring Boot internship at [ Compass UOL](https://compass.uol/en/home/)  
-  
-
-- 🌱 I’m currently learning Java and Spring Boot  
-  
-
-- ⚡ Fun fact: I use spaces over tabs  
-  
+- 🔭 I’m currently looking for work
 
 <br/>  
 
