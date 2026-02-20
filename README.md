@@ -101,11 +101,6 @@ I'm a **Backend Developer** from **Erechim, RS — Brazil**, focused on building
   <img width="60%" src="https://streak-stats.demolab.com/?user=igorxvi&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=igorxvi&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=bd93f9" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=igorxvi&theme=dracula&hide_border=true" alt="Contribution Graph" />
-</picture>
-
 ---
 
 <p align="center">
