@@ -1,18 +1,113 @@
-### <div align="center">Hello, I'm Igor Tomelero de Almeida 👋</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Igor+Almeida+%F0%9F%91%8B;Backend+Developer+%7C+Cloud+Engineer;Building+scalable+systems+on+AWS" alt="Typing SVG" />
+</h1>
 
-<br/> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-tomelero-de-almeida-142040145/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/IgorXVI">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=IgorXVI&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-## Github Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=igorxvi&show_icons=true&theme=dracula&count_private=true&custom_title=Repositories%20Stats&line_height=20">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorxvi&layout=compact&theme=dracula&hide=html,css,rust"/>
-</div>
+---
 
-<br/>
+### 🧑‍💻 About Me
 
-## Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/igor-tomelero-de-almeida-142040145/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
+I'm a **Backend Developer** from **Erechim, RS — Brazil**, focused on building reliable, scalable systems using **TypeScript**, **Node.js**, and **AWS**. I enjoy working across the full stack when needed, but my passion lies in designing clean APIs, serverless architectures, and cloud-native solutions.
+
+- 🔭 Currently working with **TypeScript/Node.js** and **AWS** (Lambda, DynamoDB, API Gateway, S3)
+- 🌱 Always exploring new cloud patterns and DevOps practices
+- 🎮 Game dev hobbyist — built projects with **Godot/GDScript**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/igor-tomelero-de-almeida-142040145/)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,aws,go,docker,postgres,dynamodb,redis,git,linux,svelte,nextjs,tailwind,godot&perline=7" alt="Tech Stack" />
+</p>
+
+<details>
+<summary><b>More details</b></summary>
+<br>
+
+| Category | Technologies |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Go, GDScript |
+| **Backend** | Node.js, Express, NestJS, REST APIs, Serverless |
+| **Cloud & Infra** | AWS (Lambda, DynamoDB, API Gateway, S3, CloudFormation), Docker |
+| **Databases** | PostgreSQL, DynamoDB, Redis |
+| **Frontend** | Svelte, Next.js, React, Tailwind CSS |
+| **Tools** | Git, Linux, CI/CD, GitHub Actions |
+
+</details>
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Apocrypha</h3>
+      <p align="center">
+        <a href="https://github.com/IgorXVI/apocrypha">
+          <img src="https://img.shields.io/badge/Code-View_Repo-BD93F9?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <p align="center">Online bookstore built with <b>TypeScript</b>. Full e-commerce platform with catalog, cart, and checkout.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">DynamoDB CRUD API</h3>
+      <p align="center">
+        <a href="https://github.com/IgorXVI/dynamodb-crud-api-gateway">
+          <img src="https://img.shields.io/badge/Code-View_Repo-BD93F9?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <p align="center">Serverless REST API for customer registration using <b>AWS API Gateway</b>, <b>Lambda</b>, and <b>DynamoDB</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">img-ops</h3>
+      <p align="center">
+        <a href="https://github.com/IgorXVI/img-ops">
+          <img src="https://img.shields.io/badge/Code-View_Repo-BD93F9?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <p align="center">Image processing REST API built with <b>Go</b>. Paired with a <b>Svelte</b> frontend.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Fox</h3>
+      <p align="center">
+        <a href="https://github.com/IgorXVI/fox">
+          <img src="https://img.shields.io/badge/Code-View_Repo-BD93F9?style=for-the-badge&logo=github" alt="Repo" />
+        </a>
+      </p>
+      <p align="center">Game project built with <b>Godot Engine</b> and <b>GDScript</b>.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igorxvi&show_icons=true&theme=dracula&count_private=true&custom_title=Stats&line_height=20&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorxvi&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorxvi&layout=compact&theme=dracula&hide=html,css,rust&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> — Martin Fowler
+</p>
