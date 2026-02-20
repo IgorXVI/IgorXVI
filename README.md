@@ -98,13 +98,13 @@ I'm a **Backend Developer** from **Erechim, RS — Brazil**, focused on building
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igorxvi&show_icons=true&theme=dracula&count_private=true&custom_title=Stats&line_height=20&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorxvi&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=igorxvi&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorxvi&layout=compact&theme=dracula&hide=html,css,rust&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=igorxvi&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=bd93f9" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=igorxvi&theme=dracula&hide_border=true" alt="Contribution Graph" />
+</picture>
 
 ---
 
