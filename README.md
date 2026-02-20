@@ -16,11 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Backend Developer** from **Erechim, RS — Brazil**, focused on building reliable, scalable systems using **TypeScript**, **Node.js**, and **AWS**. I enjoy working across the full stack when needed, but my passion lies in designing clean APIs, serverless architectures, and cloud-native solutions.
+I'm a **Backend Developer** from **Erechim, RS - Brazil**, focused on building reliable, scalable systems using **TypeScript**, **Node.js**, and **AWS**. I enjoy working across the full stack when needed, but my passion lies in designing clean APIs, serverless architectures, and cloud-native solutions.
 
 - 🔭 Currently working with **TypeScript/Node.js** and **AWS** (Lambda, DynamoDB, API Gateway, S3)
 - 🌱 Always exploring new cloud patterns and DevOps practices
-- 🎮 Game dev hobbyist — built projects with **Godot/GDScript**
+- 🎮 Game dev hobbyist - built projects with **Godot/GDScript**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/igor-tomelero-de-almeida-142040145/)
 
 ---
@@ -104,5 +104,5 @@ I'm a **Backend Developer** from **Erechim, RS — Brazil**, focused on building
 ---
 
 <p align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> — Martin Fowler
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> - Martin Fowler
 </p>
