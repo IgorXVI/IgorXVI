@@ -92,5 +92,3 @@ I'm a **Backend Developer** from **Erechim, RS - Brazil**, focused on building r
     </td>
   </tr>
 </table>
-
----
