@@ -94,15 +94,3 @@ I'm a **Backend Developer** from **Erechim, RS - Brazil**, focused on building r
 </table>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=igorxvi&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> - Martin Fowler
-</p>
